@@ -1,0 +1,14 @@
+Tool;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit;Name;Value;Unit
+Profile;Pos x;;;Pos y;;;Averaging;;;Green x horiz;;;Green y horiz;;;Red x horiz;;;Red y horiz;;;Dist x horiz;;;Green x vert;;;Green y vert;;;Red x vert;;;Red y vert;;;Dist x vert;;;FWHM horiz;;;1/e² horiz;;;µ horiz;;;Amplitude horiz;;;Offset horiz;;;FWHM vert;;;1/e² vert;;;µ vert;;;Amplitude vert;;;Offset vert;;;;;;;;;;;
+Position;Pos x;;;Pos y;;;Pos Value;;;Circle Pos x;;;Circle Pos y;;;Radius;;;Rect Pos x;;;Rect Pos y;;;Width;;;Height;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Peak;Pos x;377;Pixel;Pos y;290;Pixel;Value;243;a.u.;ROI;Image;;Peak Determination Method;Calculate Centroid;a.u.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Centroid;Pos x;;;Pos y;;;ROI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Peak Profile;Pos x;377;Pixel;Pos y;290;Pixel;Value;243;a.u.;Averaging;1;Pixel;Green x horiz;0;Pixel;Green y horiz;2;a.u.;Red x horiz;0;Pixel;Red y horiz;2;a.u.;Dist x horiz;0;Pixel;Green x vert;0;Pixel;Green y vert;2;a.u.;Red x vert;0;Pixel;Red y vert;2;a.u.;Dist x vert;0;Pixel;ROI;Image;;Peak Determination Method;Calculate Centroid;a.u.;FWHM horiz;33.4;Pixel;1/e² horiz;56.7;Pixel;µ horiz;377.1;Pixel;Amplitude horiz;233.7;a.u.;Offset horiz;3.0;a.u.;FWHM vert;32.9;Pixel;1/e² vert;55.8;Pixel;µ vert;287.1;Pixel;Amplitude vert;237.6;a.u.;Offset vert;3.0;a.u.
+Statistics;Sum;;;Max;;;Mean;;;Std Dev;;;ROI;;;Number of Pixels;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Histogram;ROI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Noise Reduction;Filter;;;Masksize;;;Double SD;;;ROI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Offset;Offset Type;;;Offset Gray;;;Offset Red;;;Offset Green;;;Offset Blue;;;ROI Input;;;ROI Output;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Contrast;Min Source;;;Max Source;;;Min Destination;;;Max Destination;;;ROI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Image No.;14288;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Comment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
