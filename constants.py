@@ -1,1 +1,1 @@
-FIGSIZE = [8, 10]
+FIGSIZE = [10, 8]
