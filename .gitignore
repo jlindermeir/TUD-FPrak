@@ -3,3 +3,6 @@
 
 # Jupyter Notebook cache files
 **/.ipynb_checkpoints
+
+# PyCharm project files
+/.idea
