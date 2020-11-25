@@ -6,3 +6,6 @@
 
 # PyCharm project files
 /.idea
+
+# Experiment MMC
+/MMC/dataset
