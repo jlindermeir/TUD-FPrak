@@ -9,3 +9,6 @@
 
 # Experiment MMC
 /MMC/dataset
+
+# Miscellaneous local files which should not be stored on the remote
+/.misc
