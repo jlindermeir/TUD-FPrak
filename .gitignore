@@ -12,3 +12,6 @@
 
 # Miscellaneous local files which should not be stored on the remote
 /.misc
+
+# Video files to big for git repo
+/VAC1/V1/videos
